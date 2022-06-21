@@ -15,6 +15,8 @@ Router type GET http://localhost:4000/student
 2. get the list of a particular student
 Router type GET http://localhost:4000/studentname?name=Amit
 
+![Screenshot](output/2.png)
+
 3. add a new student to the list
 Router type POST http://localhost:4000/student
 body send josn data e.g:- {
@@ -24,6 +26,8 @@ body send josn data e.g:- {
 "age": 27
 }
 
+![Screenshot](output/3.png)
+
 4. update the age of a particular student
 Router type PUT http://localhost:4000/student/7
 body send josn data e.g:-{
@@ -32,17 +36,24 @@ body send josn data e.g:-{
      
 }
 
+![Screenshot](output/4.png)
+
 5. delete a particular student based on the age
 Router type DELETE http://localhost:4000/student
 body send josn data e.g:-{
      "age": 40
      }
      
+![Screenshot](output/5.png)
+
 6. Filter the students based on the age. Let's say you want to filter the students whose age is greater than 20
 Router type GET http://localhost:4000/studentFliter?age=20
 
+![Screenshot](output/6.png)
+
 7. write an api to get the average age of the students
 Router type GET http://localhost:4000/studentaverage
+![Screenshot](output/7.png)
 
 
 
