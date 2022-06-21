@@ -1,0 +1,86 @@
+[
+  {
+    "id": 7,
+    "name": "Amit",
+    "class": "B.E",
+    "rollNo": 7,
+    "age": 40
+  },
+  {
+    "name": "Amit",
+    "class": "B.E",
+    "rollNo": 2,
+    "age": 23,
+    "id": 2
+  },
+  {
+    "id": 3,
+    "name": "Sarass",
+    "class": "BCA",
+    "rollNo": 3,
+    "age": 21
+  },
+  {
+    "id": 4,
+    "name": "Sara kumar",
+    "class": "DCA",
+    "rollNo": 4,
+    "age": 23
+  },
+  {
+    "id": 5,
+    "name": "Sita",
+    "class": "BCA",
+    "rollNo": 5,
+    "age": 18
+  },
+  {
+    "id": 6,
+    "name": "Saras kumar",
+    "class": "mca",
+    "rollNo": 6,
+    "age": 23
+  },
+  {
+    "name": "kumar singh",
+    "class": "B.E",
+    "rollNo": 8,
+    "age": 20,
+    "id": 8
+  },
+  {
+    "name": "komal singh",
+    "class": "B.E",
+    "rollNo": 9,
+    "age": 19,
+    "id": 9
+  },
+  {
+    "name": "Amit amit",
+    "class": "B.E",
+    "rollNo": 10,
+    "age": 30,
+    "id": 10
+  },
+  {
+    "name": "seema kumari singh",
+    "class": "B.E",
+    "rollNo": 12,
+    "age": 30,
+    "id": 11
+  },
+  {
+    "id": 12,
+    "name": "seema kumari",
+    "class": "B.E",
+    "rollNo": 12,
+    "age": 30
+  },
+  {
+    "id": 13,
+    "name": "Rohan kumar",
+    "class": "M.E",
+    "rollNo": 14,
+    "age": 27
+  }
+]
