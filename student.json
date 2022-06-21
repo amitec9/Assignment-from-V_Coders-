@@ -1,10 +1,17 @@
 [
+   {
+    "name": "Mohan kumar",
+    "class": "B.E",
+    "rollNo": 1,
+    "age": 18,
+    "id": 1
+  },
   {
     "id": 7,
     "name": "Amit",
     "class": "B.E",
     "rollNo": 7,
-    "age": 40
+    "age": 35
   },
   {
     "name": "Amit",
@@ -25,7 +32,7 @@
     "name": "Sara kumar",
     "class": "DCA",
     "rollNo": 4,
-    "age": 23
+    "age": 17
   },
   {
     "id": 5,
@@ -39,7 +46,7 @@
     "name": "Saras kumar",
     "class": "mca",
     "rollNo": 6,
-    "age": 23
+    "age": 26
   },
   {
     "name": "kumar singh",
@@ -66,7 +73,7 @@
     "name": "seema kumari singh",
     "class": "B.E",
     "rollNo": 12,
-    "age": 30,
+    "age": 31,
     "id": 11
   },
   {
@@ -74,7 +81,7 @@
     "name": "seema kumari",
     "class": "B.E",
     "rollNo": 12,
-    "age": 30
+    "age": 29
   },
   {
     "id": 13,
