@@ -51,9 +51,11 @@ var removeByAttr = function (arr, attr, value) {
 app.get("/student", (req, res) => {
   //1. get the list of all the students
   try {
+    let data = JSON.parse(fread)
+    let result = data.sort((a,b) => a.id-b.id)
     res.json({
       status: true,
-      data: JSON.parse(fread),
+      data: result,
     });
   } catch (err) {
     console.log("Error ", err);
