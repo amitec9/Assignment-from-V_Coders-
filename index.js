@@ -171,5 +171,5 @@ app.get("/studentaverage", (req, res) => {
 });
 
 app.listen(4000, () => {
-  console.log(" Server is running");
+  console.log(" Server is running : 4000");
 });
