@@ -9,6 +9,7 @@ npm run dev or node index.js
 
 1. get the list of all the students
 Router type GET http://localhost:4000/student
+![alt text](http://output/1.png)
 
 2. get the list of a particular student
 Router type GET http://localhost:4000/studentname?name=Amit
